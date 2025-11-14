@@ -1,0 +1,5 @@
+{
+  "name": "Monthly Finance Tracker",
+  "description": "A simple monthly finance tracker to monitor income, expenses, and savings. Data is stored locally in your browser, and a pie chart visualizes your financial distribution.",
+  "requestFramePermissions": []
+}
